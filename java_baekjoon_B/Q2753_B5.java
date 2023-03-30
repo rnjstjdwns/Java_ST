@@ -1,4 +1,4 @@
-package java_baekjoon;
+package java_baekjoon_B;
 import java.util.*;
 
 public class Q2753_B5 {

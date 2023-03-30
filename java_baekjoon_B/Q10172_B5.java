@@ -1,4 +1,4 @@
-package java_baekjoon;
+package java_baekjoon_B;
 
 public class Q10172_B5 {
     public static void main(String args[]) {
