@@ -1,4 +1,4 @@
-package java_baekjoon_B;
+package java_baekjoon_B.basic_syntax.string;
 
 import java.util.*;
 public class Q10809_B2 {

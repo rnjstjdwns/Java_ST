@@ -1,4 +1,4 @@
-package java_baekjoon_B;
+package java_baekjoon_B.basic_syntax.input_output;
 
 import java.util.*;
 

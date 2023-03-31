@@ -1,4 +1,4 @@
-package java_baekjoon_B;
+package java_baekjoon_B.basic_syntax.condition;
 import java.util.*;
 public class Q2884_B3 {
     public static void main(String[] args) {

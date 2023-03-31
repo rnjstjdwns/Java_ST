@@ -1,4 +1,4 @@
-package java_baekjoon_B.Bronze;
+package java_baekjoon_B.basic_syntax.repeat;
 
 import java.util.*;
 
