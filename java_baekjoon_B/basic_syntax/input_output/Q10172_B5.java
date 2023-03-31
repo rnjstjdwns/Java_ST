@@ -1,4 +1,4 @@
-package java_baekjoon_B;
+package java_baekjoon_B.basic_syntax.input_output;
 
 public class Q10172_B5 {
     public static void main(String args[]) {
